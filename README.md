@@ -18,7 +18,7 @@ I am actively looking to collaborate on projects related to **Machine Learning**
 
 ### 📫 How to Reach Me
 - **Email**: [javier.torober@gmail.com](mailto:javier.torober@gmail.com)
-- **LinkedIn**: [Javier's LinkedIn](https://www.linkedin.com/in/javier-torob/)
+- **LinkedIn**: [Javier Toro](https://www.linkedin.com/in/javier-torob/)
 
 ### 👤 Pronouns
 - **He/Him**
