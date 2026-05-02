@@ -1,33 +1,25 @@
-# Hi, I'm @javier-toro 🐻🎲
+# Javier Toro
 
-Welcome to my GitHub!
+I am a Mathematical Engineering student interested in machine learning, financial mathematics, quantitative finance, and data-driven modeling.
 
-### 👨‍💻 About Me
-- **Machine Learning & AI**: I'm diving into **Machine Learning** and **Artificial Intelligence**, focusing on **prediction** and **modeling indicators**.
-- **Economics & Finance**: I'm also learning about economics and finance with a strong mathematical approach, as I study **Mathematical Engineering**.
-- **Music**: I play the guitar and a bit of piano. I enjoy experimenting with sounds and melodies.
-- **Reading and Writing**: I'm passionate about reading and writing, exploring both fiction and technical topics such as science and technology.
+My main interests lie in the application of mathematical and computational methods to prediction, financial analysis, economic indicators, and complex systems. I am particularly motivated by projects that combine rigorous quantitative methods with practical applications.
 
-### 🌱 What I'm Learning
-- Advancing my skills in **Machine Learning** and **Data Science** with practical applications.
-- Developing my understanding of **Financial Mathematics** for better predictions and data-driven decision-making.
-- Integrating my knowledge into real-world projects, particularly in economic modeling and AI.
+## Interests
 
-### 💡 Collaboration
-I am actively looking to collaborate on projects related to **Machine Learning**, **Data Science**, and **AI**, especially those involving **prediction** and **indicator modeling**. I am open to various challenges that allow me to grow and apply my skills.
+- Machine Learning
+- Data Science
+- Quantitative Finance
+- Financial Mathematics
+- Economic Modeling
+- Predictive Analytics
+- Scientific Computing
+- C++ Programming
 
-### 📫 How to Reach Me
-- **Email**: [javier.torober@gmail.com](mailto:javier.torober@gmail.com)
-- **LinkedIn**: [Javier Toro](https://www.linkedin.com/in/javier-torob/)
+## Current Focus
 
-### 👤 Pronouns
-- **He/Him**
+I am currently strengthening my knowledge in machine learning, financial modeling, data analysis, and C++ programming, with the goal of developing tools and models that support better decision-making in economic and financial contexts.
 
-### 🎶 Favorite Song
-- My favorite song is [**"When I Get Back" by The Neighbourhood ft. G-Eazy**](https://open.spotify.com/track/62lRj72gtFyhovAyfbZGBu?si=f9f160432c6941e9). It's a great track that always puts me in the right mood!
+## Contact
 
-
-<!---
-javier-toro/javier-toro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Email: [javier.torober@gmail.com](mailto:javier.torober@gmail.com)
+- LinkedIn: [Javier Toro](https://www.linkedin.com/in/javier-torob/)
