@@ -1,8 +1,26 @@
-# Javier Toro
+<p align="center">
+  <img
+    src="./assets/javier-ascii.svg"
+    alt="Colored ASCII portrait of Javier Toro"
+    width="500"
+  />
+</p>
 
-I am a Mathematical Engineering student interested in machine learning, financial mathematics, quantitative finance, and data-driven modeling.
+<h1 align="center">Javier Toro</h1>
 
-My main interests lie in the application of mathematical and computational methods to prediction, financial analysis, data science and Low-Latency systems, specially in the domain of finance. 
+<p align="center">
+  Mathematical Engineering student interested in machine learning,
+  quantitative finance, and high-performance computational systems.
+</p>
+
+## About Me
+
+I am a Mathematical Engineering student interested in machine learning,
+financial mathematics, quantitative finance, and data-driven modeling.
+
+My main interests lie in applying mathematical and computational methods to
+prediction, financial analysis, data science, and low-latency systems,
+especially in finance.
 
 ## Interests
 
@@ -14,7 +32,9 @@ My main interests lie in the application of mathematical and computational metho
 
 ## Current Focus
 
-I am currently strengthening my knowledge in machine learning, financial modeling, data analysis, and C++ programming, with the goal of developing tools and models that support better decision-making in financial contexts.
+I am currently strengthening my knowledge in machine learning, financial
+modeling, data analysis, and C++ programming. My goal is to develop tools and
+models that support better decision-making in financial contexts.
 
 ## Contact
 
