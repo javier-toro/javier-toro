@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="./assets/javier-ascii.svg"
+    src="./javier-ascii.svg"
     alt="Colored ASCII portrait of Javier Toro"
     width="500"
   />
